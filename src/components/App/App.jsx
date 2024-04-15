@@ -12,6 +12,7 @@ export const App = () => {
   return (
     <AppContainer
     >
+      app
       <Profile
         avatar={user.avatar}
         username={user.username}
